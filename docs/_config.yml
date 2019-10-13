@@ -1,7 +1,2 @@
 title: LoRa smart-lock
 theme: jekyll-theme-cayman
-permalinks:
-  1-semestras: '/1-semestras'
-  2-semestras: '/2-semestras'
-  3-semestras: '/3-semestras'
-  4-semestras: '/4-semestras'
