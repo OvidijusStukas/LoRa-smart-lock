@@ -1,2 +1,3 @@
 title: LoRa smart-lock
 theme: jekyll-theme-cayman
+permalink: /:title/
