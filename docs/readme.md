@@ -1,8 +1,10 @@
+
+
 # Išmanus užraktas naudojat LoRa duomenų perdavimo priemones
 
 ### Asmenys
-* Vadovas - **Šarūnas Packevičius**
-* Kūrėjas - **Ovidijus Stukas**
+* Vadovas - **Šarūnas Packevičius** (sarunas@ieee.org)
+* Kūrėjas - **Ovidijus Stukas** (ovidijus.stukas@kt.edu)
 
 ### Anotacija
 Kuriamas išmanus užraktas, kurį būtų galima atrakinti ir užrakinti iš mobilios programėlės per didelį atstumą.<br/>
