@@ -8,7 +8,7 @@
 
 ### Asmenys
 * Vadovas - **Šarūnas Packevičius** (sarunas@ieee.org)
-* Kūrėjas - **Ovidijus Stukas** (ovidijus.stukas@kt.edu)
+* Kūrėjas - **Ovidijus Stukas** (ovidijus.stukas@ktu.edu)
 
 ### Anotacija
 Kuriamas išmanus užraktas, kurį būtų galima atrakinti ir užrakinti iš mobilios programėlės per didelį atstumą.<br/>
